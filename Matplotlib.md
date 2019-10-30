@@ -82,7 +82,7 @@ plt.xticks(np.arange(5),(‘A’,’B’,’C’,’D’,’E’))
 ### plt.yticks():
 同上
 
-###plt.subplot():
+### plt.subplot():
 本函数可以在同一个图中绘制出多个子图
 例子：
 
